@@ -19,13 +19,13 @@ Modern BMI Calculator built using Flutter & Dart with clean UI and responsive de
 
 ### Main Screen
 
-![BMI Screen](assets/images/bmi_screen.png)
+<img width="367" height="775" alt="bmi_screen png" src="https://github.com/user-attachments/assets/bfb81e0a-ca79-422d-8b66-9ab5ea7a46e4" />
+
 
 ---
 
 ### Result Screen
-
-![Result Screen](assets/images/result_screen.png)
+<img width="337" height="756" alt="result_screen png" src="https://github.com/user-attachments/assets/67c757f1-ab83-4e78-88ea-683510c7a9c8" />
 
 ---
 
