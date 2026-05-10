@@ -1,53 +1,84 @@
-# BMI Calculator App
+# 🧮 BMI Calculator App
 
-A simple and modern BMI Calculator mobile application built using Flutter and Dart.
+Modern BMI Calculator built using Flutter & Dart with clean UI and responsive design.
 
-## Features
+---
 
-- Calculate Body Mass Index (BMI)
-- Modern and responsive UI
-- Height slider
-- Increase/decrease weight and age
-- Navigation between screens
-- BMI result screen
+## ✨ Features
 
-## Technologies Used
+- Calculate BMI instantly
+- Responsive UI
+- Height Slider
+- Weight & Age Controls
+- Dark Modern Design
+- Smooth Navigation
+
+---
+
+## 📸 Screenshots
+
+### Main Screen
+
+![BMI Screen](assets/images/bmi_screen.png)
+
+---
+
+### Result Screen
+
+![Result Screen](assets/images/result_screen.png)
+
+---
+
+## 🛠️ Technologies Used
 
 - Flutter
 - Dart
 - Material Design
 
-## Screens
+---
 
-### Home Screen
-- Select height
-- Change weight and age
-- Calculate BMI
+## 📂 Project Structure
 
-### Result Screen
-- Display BMI result
-- Return back to home screen
+```bash
+lib/
+├── main.dart
+├── BmiScreen.dart
+└── ResultScreen.dart
+```
 
-## BMI Formula
+---
 
-BMI = weight / (height * height)
+## 🚀 Getting Started
 
-## What I Learned
+### Clone Repository
 
-- StatefulWidget
-- setState()
-- Navigator.push()
-- Navigator.pop()
-- UI Design in Flutter
-- Using Slider and FloatingActionButton
-- Responsive Layout
+```bash
+git clone https://github.com/George838-arch/flutter-bmi-calculator.git
+```
 
-## Getting Started
-
-1. Install Flutter
-2. Clone or download the project
-3. Run:
+### Install Dependencies
 
 ```bash
 flutter pub get
+```
+
+### Run Application
+
+```bash
 flutter run
+```
+
+---
+
+## 👨‍💻 Developer
+
+### George Medhat
+
+GitHub:
+https://github.com/George838-arch
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a star ⭐ on GitHub.
