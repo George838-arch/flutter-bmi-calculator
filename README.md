@@ -39,14 +39,16 @@ The app provides a modern dark-themed interface with responsive controls and ins
 
 ## 🖥️ Main Screen
 
-<img src="assets/images/bmi_screen.png" width="300"/>
+<img width="367" height="775" alt="bmi_screen png" src="https://github.com/user-attachments/assets/93130cd8-9bf3-46df-855e-1bfeaa7d4742" />
+
 
 <br>
 <br>
 
 ## 📊 Result Screen
 
-<img src="assets/images/result_screen.png" width="300"/>
+<img width="337" height="756" alt="result_screen png" src="https://github.com/user-attachments/assets/ea94e537-b363-4b8f-bd3c-0334f652c83e" />
+
 
 </div>
 
